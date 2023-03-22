@@ -1,0 +1,8 @@
+.inputed-data {
+    border: 1px solid rgb(168, 165, 165);
+    border-radius: 5px;
+    max-width: 100%;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    font-weight: 600;
+}

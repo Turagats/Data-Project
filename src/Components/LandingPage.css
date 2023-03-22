@@ -1,0 +1,54 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.first-box {
+    font-size: medium;
+    font-weight: bolder;
+}
+
+button {
+    border: 0.2px solid rgb(58, 3, 58);
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 100px;
+    max-width: 60%;
+    height: 30px;
+    font-weight: 700;
+}
+
+.username {
+    display: flex;
+    flex-direction: column;
+}
+
+.age-years {
+    display: flex;
+    flex-direction: column;
+}
+
+.div {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 2rem;
+    padding: 1rem;
+    width: 35%;
+    background-color: rgb(255, 255, 255);
+}
+
+input {
+    max-width: 100%;
+    border: 1px solid rgb(168, 165, 165);
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    margin-top: 0.3rem;
+    padding: 0.3rem;
+    font-weight: 700;
+}
+
+.additiona-div {
+    padding-top: 0rem;
+}
